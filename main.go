@@ -1,6 +1,8 @@
 package main
 
-import "include/include"
+import (
+	"include/include"
+)
 
 func main() {
 	include.BootCore()
